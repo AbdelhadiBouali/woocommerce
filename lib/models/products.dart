@@ -47,7 +47,7 @@ class WooProduct {
   final String? description;
   final String? shortDescription;
   final String? sku;
-  final String? price;
+  final int? price;
   final String? regularPrice;
   final String? salePrice;
   final String? priceHtml;
